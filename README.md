@@ -1,5 +1,7 @@
 # phpspec Laravel Extension
 
+This is fork of https://github.com/BenConstable/phpspec-laravel
+
 > [phpspec](http://www.phpspec.net/) extension for testing [Laravel](http://laravel.com/)
   applications.
 

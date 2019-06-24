@@ -1,14 +1,14 @@
 {
-  "name": "benconstable/phpspec-laravel",
+  "name": "bikramtuladhar/phpspec-laravel",
   "description": "Test your Laravel applications with PhpSpec",
   "keywords": ["laravel", "phpspec", "testing", "test"],
-  "homepage": "http://github.com/BenConstable/phpspec-laravel",
+  "homepage": "https://github.com/bikramtuladhar/phpspec-laravel",
   "type": "library",
   "authors": [
     {
-      "name": "Ben Constable",
-      "email": "ben@benconstable.co.uk",
-      "homepage": "https://benconstable.co.uk"
+      "name": "Bikram Tuladhar",
+      "email": "hello@bikramtuladhar.com.np",
+      "homepage": "https://bikramtuladhar.com.np"
     }
   ],
   "license": "MIT",
