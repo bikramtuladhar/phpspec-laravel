@@ -1,21 +1,21 @@
 {
-  "name": "benconstable/phpspec-laravel",
+  "name": "bikramtuladhar/phpspec-laravel",
   "description": "Test your Laravel applications with PhpSpec",
   "keywords": ["laravel", "phpspec", "testing", "test"],
-  "homepage": "http://github.com/BenConstable/phpspec-laravel",
+  "homepage": "https://github.com/bikramtuladhar/phpspec-laravel",
   "type": "library",
   "authors": [
     {
-      "name": "Ben Constable",
-      "email": "ben@benconstable.co.uk",
-      "homepage": "https://benconstable.co.uk"
+      "name": "Bikram Tuladhar",
+      "email": "hello@bikramtuladhar.com.np",
+      "homepage": "https://bikramtuladhar.com.np"
     }
   ],
   "license": "MIT",
   "require": {
-    "php": "^7.0",
-    "phpspec/phpspec": "^4.0 || ^5.0",
-    "laravel/framework": "^5.4"
+    "php": "^7.2.5",
+    "phpspec/phpspec": "^5.0 || ^6.1",
+    "laravel/framework": "^7.0"
   },
   "autoload": {
     "psr-4": {
@@ -27,7 +27,9 @@
       "dev-laravel-4": "1.x-dev",
       "dev-2.0": "2.x-dev",
       "dev-3.0": "3.x-dev",
-      "dev-master": "4.x-dev"
+      "dev-4.0": "4.x-dev",
+      "dev-5.0": "5.x-dev",
+      "dev-master": "5.x-dev"
     }
   },
   "config": {
